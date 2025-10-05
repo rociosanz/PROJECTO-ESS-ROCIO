@@ -77,3 +77,8 @@ Given que estou autenticado como professor
 When seleciono dois períodos para comparar
 Then devo ver uma tabela comparativa de resultados
 
+Cenário: Enviar relatório por e-mail
+
+Given que estou autenticado como professor
+When solicito enviar o relatório por e-mail
+Then devo receber o relatório no meu e-mail
