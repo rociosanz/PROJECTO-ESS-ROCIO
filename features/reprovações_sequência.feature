@@ -71,4 +71,9 @@ Given que estou autenticado como professor
 When solicito o gráfico de tendências
 Then devo ver a evolução das aprovações por ano
 
+Cenário: Comparar resultados entre dois períodos
+
+Given que estou autenticado como professor
+When seleciono dois períodos para comparar
+Then devo ver uma tabela comparativa de resultados
 
