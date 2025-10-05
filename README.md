@@ -1,1 +1,3 @@
 # PROJECTO-ESS-ROCIO
+# Descrição Geral 
+O projeto trata de analisar a sequência de reprovações, histograma com alunos que passaram à primeira, à segunda, etc...
